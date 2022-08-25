@@ -1,0 +1,12 @@
+Checking Tools:
+============
+git --version
+docker --version
+docker-compose --version
+
+
+Running Project:
+=============
+git clone https://github.com/NubeEra-Samples/DockerComposeDemo.git
+cd DockerComposeDemo
+docker-compose up
